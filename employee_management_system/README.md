@@ -1,0 +1,1 @@
+this is my personal project. this project is an employee management system in C that allows various operations related to employee information within a company. The various functionalities the system supports include adding new employees, update their dateils, delete recordsand generate records.
